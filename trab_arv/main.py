@@ -66,5 +66,7 @@ while True:
     
     except:
         print("Erro")
+        break
+
         
 excluir_linha()
